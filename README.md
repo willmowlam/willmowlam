@@ -1,5 +1,5 @@
-[![Will Mowlam's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=willmowlam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/willmowlam/github-readme-stats#gh-dark-mode-only)
-[![Will Mowlam's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=willmowlam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/willmowlam/github-readme-stats#gh-light-mode-only)
+[![Will Mowlam's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=willmowlam&hide_border=true&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/willmowlam#gh-dark-mode-only)
+[![Will Mowlam's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=willmowlam&hide_border=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/willmowlam#gh-light-mode-only)
 <!--
 [![Will Mowlam's GitHub Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&hide_progress=true&layout=compact&theme=dark)](https://github.com/willmowlam/github-readme-stats#gh-dark-mode-only)
 [![Will Mowlam's GitHub Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&hide_progress=true&layout=compact&theme=default)](https://github.com/willmowlam/github-readme-stats#gh-light-mode-only)
