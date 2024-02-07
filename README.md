@@ -1,5 +1,9 @@
-<a href="https://github.com/willmowlam"><img title="Will Mowlam's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&langs_count=6&layout=compact&title_color=adbac7&text_color=768390&bg_color=22272d&hide_border=true" align="center"></a>
-
+[![Will Mowlam's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=willmowlam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/willmowlam/github-readme-stats#gh-dark-mode-only)
+[![Will Mowlam's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=willmowlam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/willmowlam/github-readme-stats#gh-light-mode-only)
+<!--
+[![Will Mowlam's GitHub Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&hide_progress=true&layout=compact&theme=dark)](https://github.com/willmowlam/github-readme-stats#gh-dark-mode-only)
+[![Will Mowlam's GitHub Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&hide_progress=true&layout=compact&theme=default)](https://github.com/willmowlam/github-readme-stats#gh-light-mode-only)
+-->
 <!--
 **willmowlam/willmowlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
