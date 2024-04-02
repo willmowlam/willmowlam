@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=willmowlam&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true&hide_longest_streak=true#gh-dark-mode-only)](#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=willmowlam&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true&hide_longest_streak=true#gh-light-mode-only)](#gh-light-mode-only)
 
-🔭 Working on [devOpps.app](https://github.com/jilloreilly/devopps)
+🔭 Working on [devOpps](https://github.com/jilloreilly/devopps)
 
 🌱 Learning [Firebase](https://firebase.google.com/)
 
