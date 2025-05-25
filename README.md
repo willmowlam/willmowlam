@@ -5,7 +5,7 @@
 
 <!-- 🔭 Working on [devOpps](https://github.com/jilloreilly/devopps) -->
 
-- 🔭 I’m currently working on projects with [Astro](https://astro.build/)
+🔭 I’m currently working on projects with [Astro](https://astro.build/)
 
 <!--
 [![Will Mowlam's GitHub Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&hide_progress=true&layout=compact&theme=dark)](https://github.com/willmowlam/github-readme-stats#gh-dark-mode-only)
