@@ -5,7 +5,7 @@
 
 <!-- 🔭 Working on [devOpps](https://github.com/jilloreilly/devopps) -->
 
-🌱 Learning [Firebase](https://firebase.google.com/), [Tanstack Query](https://tanstack.com/query) and [Typescript](https://www.typescriptlang.org/)
+- 🔭 I’m currently working on projects with [Astro](https://astro.build/)
 
 <!--
 [![Will Mowlam's GitHub Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=willmowlam&hide_progress=true&layout=compact&theme=dark)](https://github.com/willmowlam/github-readme-stats#gh-dark-mode-only)
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🌱 Learning [Firebase](https://firebase.google.com/), [Tanstack Query](https://tanstack.com/query) and [Typescript](https://www.typescriptlang.org/)
 -->
