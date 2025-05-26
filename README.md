@@ -5,7 +5,7 @@
 
 <!-- 🔭 Working on [devOpps](https://github.com/jilloreilly/devopps) -->
 
-🔭 I’m currently working on projects with [Astro](https://astro.build/)
+🔭 Working on projects using [Astro](https://astro.build/)
 
 ### Core Languages & Libraries
 <p>
@@ -27,7 +27,7 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite"><img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM"><img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" style="margin: 8px;" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VSCode" width="40" height="40" style="margin: 8px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"><img src="./visual-studio-code-icon.svg" alt="VSCode" width="40" height="40" style="margin: 8px;" /></a>
 </p>
 
 ### CMS
