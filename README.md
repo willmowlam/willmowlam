@@ -23,11 +23,11 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://lando.dev/" target="_blank" rel="noreferrer" title="Lando"><img src="https://docs.lando.dev/images/icon.svg" alt="Lando" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"><img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" height="40" style="margin: 8px;" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" style="margin: 8px;" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite"><img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM"><img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" width="40" height="40" style="margin: 8px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" style="margin: 8px;" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"><img src="./visual-studio-code-icon.svg" alt="VSCode" width="40" height="40" style="margin: 8px;" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite"><img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40" style="margin: 8px;" /></a>
 </p>
 
 ### CMS
